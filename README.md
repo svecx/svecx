@@ -19,4 +19,5 @@
 ### 🎉 Github Stat
 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=svecx&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/svecx "Stats")<br>
+<a href="https://github.com/svecx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svecx&layout=compact&theme=buefy&hide_border=true" /></a>
 
