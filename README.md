@@ -12,7 +12,7 @@
 - Git
 - Material-UI
 - Tailwind
-
+-Bootstrap
 ### 🎉 Github Status
 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=svecx&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/svecx "Stats")<br>
