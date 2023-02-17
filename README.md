@@ -12,7 +12,8 @@
 - Git
 - Material-UI
 - Tailwind
--Bootstrap
+- Bootstrap
+
 
 ### 🎉 Github Status
 
